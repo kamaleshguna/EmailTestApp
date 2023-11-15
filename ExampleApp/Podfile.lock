@@ -1,0 +1,16 @@
+PODS:
+  - EmailTest (1.0.0)
+
+DEPENDENCIES:
+  - EmailTest (from `../EmailTestApp`)
+
+EXTERNAL SOURCES:
+  EmailTest:
+    :path: "../EmailTestApp"
+
+SPEC CHECKSUMS:
+  EmailTest: feb8943dc2f31d2cc1870f08461f199927eee03a
+
+PODFILE CHECKSUM: 373ce8d7f1d65aaf313b959d229886fbe4101d1b
+
+COCOAPODS: 1.12.1

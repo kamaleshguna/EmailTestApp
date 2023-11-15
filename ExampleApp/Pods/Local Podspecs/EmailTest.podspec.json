@@ -1,0 +1,24 @@
+{
+  "name": "EmailTest",
+  "version": "1.0.0",
+  "summary": "A short description of EmailTest.",
+  "description": "A good Email",
+  "homepage": "https://github.com/kamaleshguna/EmailTestApp",
+  "license": "MIT",
+  "authors": {
+    "Kamalesh": "kamalesh2002.gk@gmail.com"
+  },
+  "platforms": {
+    "ios": "13.4"
+  },
+  "source": {
+    "git": "https://github.com/kamaleshguna/EmailTestApp.git",
+    "branch": "main"
+  },
+  "source_files": [
+    "EmailTest",
+    "EmailTest/**/*.{swift}"
+  ],
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}
